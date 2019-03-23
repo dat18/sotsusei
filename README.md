@@ -7,4 +7,5 @@
 - [Ryosuke. モックアップ作成例](https://twitter.com/ryo620org/status/1104933258389667841)
 - [かえるD. なぜ作ったゲームが面白くならないのか？基礎にして奥義「フロー理論」](https://note.mu/kaerusanu/n/nc80f9523bb8e)
 - [深津 貴之 (fladdict) . 就活用の作品ポートフォリオの作り方](https://note.mu/fladdict/n/ne61e9b48f112)
+- [［GDC 2019］ゲームメカニクスだけに依存しない，面白いゲームの作り方。その技術を支える「6つの動詞」とは](https://www.4gamer.net/games/999/G999905/20190321021/)
 
