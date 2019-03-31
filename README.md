@@ -11,6 +11,8 @@
 - [カラースキームジェネレーター](https://coolors.co/)
 - [VRデザインラボ Discordサーバー](https://twitter.com/Banjo_Kanna/status/1111208114831818752)
   - VRのためのデザインに興味ある方はぜひ
+- [映画『Spider-Man: Into the Spider-Verse』に参加したアーティストがネット上に投稿したアート等1000点以上をまとめ](https://onanimation.com/2019/01/13/the-art-and-making-of-spider-man-into-the-spider-verse/)
+  - https://animsquare.com/2019/01/spiderman_art/
 
 ## 参考作品
 - https://unityroom.com/games/metrotree
