@@ -2,7 +2,6 @@
 - [シラバス](syllabus.md)
 
 # 参考URL
-- [paizaブログ. プロジェクトの炎上を防ぐためにSEが「要件定義」で気をつけたい4つのこと](https://paiza.hatenablog.com/entry/2019/03/08/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E7%82%8E%E4%B8%8A%E3%82%92%E9%98%B2%E3%81%90%E3%81%9F%E3%82%81%E3%81%ABSE%E3%81%8C%E3%80%8C%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%80%8D)
 - [かえるD. 良いゲームを作るためのディレクターの戦い。面白さの探索と不安のトレードオフ](https://note.mu/kaerusanu/n/n77cf0ee0734e)
   - (ゲーム大賞向けでやっちゃ駄目なやつだけど参考までに)
 - [深津 貴之 (fladdict) . 就活用の作品ポートフォリオの作り方](https://note.mu/fladdict/n/ne61e9b48f112)
@@ -12,6 +11,7 @@
   - VRのためのデザインに興味ある方はぜひ
 - ポートフォリオの作例
   - https://twitter.com/naonao_yanao/status/1112341547729616896
+- [paizaブログ. プロジェクトの炎上を防ぐためにSEが「要件定義」で気をつけたい4つのこと](https://paiza.hatenablog.com/entry/2019/03/08/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E7%82%8E%E4%B8%8A%E3%82%92%E9%98%B2%E3%81%90%E3%81%9F%E3%82%81%E3%81%ABSE%E3%81%8C%E3%80%8C%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%80%8D)
 
 
 # 1回目(4/18)
@@ -41,9 +41,6 @@
 - 素早いプロトタイプ作成
 - システムは後回しでよいので、デザイナーが作ったものをすぐ組み込む
 
-## 両者に心がけて欲しいこと
-- [ヤオヨロズの福原プロデューサーのたつき監督についてのコメント](01-memo.md)より抜粋
-
 ## 企画検討
 - 企画2週間、開発2週間、仕上げ2週間が目安
 - GW開けの5/9にモック画面を完成させてクオリティチェックを受ける
@@ -58,18 +55,20 @@
 - [ゲームの定義や面白さの要素からミニゲームを考える](https://docs.google.com/presentation/d/1_psbxg6vPk21C3nAcytyVJm8QTYr-G7AV1qAtjcRclg/edit?usp=sharing)
 - [Unity Blog. Unityグローバル学生チャレンジ　受賞作品発表](https://t.co/hJI3rlkiH3)
 
-## モックアップ
-- [Ryosuke. モックアップ作例](https://twitter.com/ryo620org/status/1104933258389667841)
-- まずはサムネイルから
-- [coliss. 2019年用、日本語のフリーフォント377種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
+## モックアップ(コンセプトアート)
+- サムネイルを描いて雰囲気を確認
+  - ゲーム画面を小さく手書きしたもの
+  - [参考例](https://www.pinterest.jp/yrk00337/ゲームラフスケッチ/)
+- モックアップ(コンセプトアート)を作成
+  - [Ryosuke. モックアップ作例](https://twitter.com/ryo620org/status/1104933258389667841)
+  - [参考例](https://www.pinterest.jp/yrk00337/%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%82%A2%E3%83%BC%E3%83%88/)
+- [映画『Spider-Man: Into the Spider-Verse』に参加したアーティストがネット上に投稿したアート等1000点以上をまとめ](https://onanimation.com/2019/01/13/the-art-and-making-of-spider-man-into-the-spider-verse/)
+  - https://animsquare.com/2019/01/spiderman_art/
 - 色、配置、フォントにこだわることで全然見栄えが変わる！！
   - [カラースキームジェネレーター](https://coolors.co/)
-- プログラムが出来ていなくてもゲームは表現できる
-  - https://twitter.com/oumaro/status/1116480339130470400
+- [coliss. 2019年用、日本語のフリーフォント377種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
 
 ## ゲームの企画概要書を作成する
-
-
 - タイトル
   - あとで変更可能なので深く考えずにとりあえず何か付けておく
 - 対象プラットフォーム
@@ -77,7 +76,6 @@
 - 解像度
   - 最適な画面サイズ
 - サムネイル
-  - 小さく手書きしたゲーム画面の概要
 - ルール
 - プレイヤーの操作
 - ストーリー
