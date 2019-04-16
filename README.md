@@ -48,7 +48,8 @@
 - ゲームシステムはコンパクトにしつつ、ステージ数やキャラを増やして拡張できるのが望ましい
 - DATフェスタ向け作品は別企画でもよい(大物をやりたい場合はコンテストが終わってから仕切り直しましょう)
 - リアルな3Dものより、センスの良い抽象的なやつの方が期間的に勝負しやすい
-  - https://unityroom.com/games/metrotree
+  - [えれのあ. TRISHOOTA](https://twitter.com/in_7010/status/1090902035552063490)
+  - [daijo. MetroTree](https://unityroom.com/games/metrotree)
 
 ## ゲームの企画
 - [昨年度の受賞作品](http://awards.cesa.or.jp/2018/prize/amateur.html)
