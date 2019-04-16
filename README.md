@@ -93,6 +93,9 @@ A4の紙を配布するので、以下について出たアイディアを書い
 
 ## 2回目予定
 - 情報共有用にTrelloのチームを作って共有
+  - 「とれろ」で検索すればOK
+  - [Trelloガイド](https://trello.com/guide/)
+  - [YouTubeでのデスクトップ画面の共有手順](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/edit?usp=sharing)
 - 自己紹介タイム
 - 課題を元に、企画や仕様を煮詰める
 - アイディアをTrelloに貼り付ける
