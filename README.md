@@ -37,10 +37,14 @@
 - ゲームシーンの流れを考えてすべてのシーンをスケッチ
 - やりたいことのイメージを落書きしながら共有
 - カラースキームを決める
+  - [カラースキームジェネレーター](https://coolors.co/)  
 - BGMと効果音、ボイスの素案
-- 正式な解像度で、仮のゲーム画面を作成
-- 以上をTrelloにまとめて共有
-
+- 正式な解像度で、仮のゲーム画面(モックアップ)を作成
+  - [Ryosuke. モックアップ作例](https://twitter.com/ryo620org/status/1104933258389667841)
+  - [参考例](https://www.pinterest.jp/yrk00337/%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%82%A2%E3%83%BC%E3%83%88/)
+  - [映画『Spider-Man: Into the Spider-Verse』に参加したアーティストがネット上に投稿したアート等1000点以上をまとめ](https://animsquare.com/2019/01/spiderman_art/)
+- 来週までに各自やってくることをTrelloに列挙
+- 以上をTrelloにまとめる。最後に簡単にチームごとに進捗を発表
 
 ### 手順
 - 起動からゲーム開始、ミス、ゲームオーバー、ステージクリア、全ステージクリアなどの流れを一通り考える
@@ -48,30 +52,16 @@
   - 各画面での操作を考える
   - ゲームでやってみたいことをスケッチして表現しながら固めていく
   - 正式な解像度を共有して、UI、キャラクター、背景の最低3レイヤーに分けて、イメージを描き始める  
+
+### 情報共有ツールTrello
 - 情報共有用にTrelloのチームを作って共有
   - 「とれろ」で検索すればOK
   - [Trelloガイド](https://trello.com/guide/)
 - 出したアイディアをTrelloに貼り付ける
-- モックアップ(コンセプトアート)を作成
-  - [Ryosuke. モックアップ作例](https://twitter.com/ryo620org/status/1104933258389667841)
-    - [参考例](https://www.pinterest.jp/yrk00337/%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%82%A2%E3%83%BC%E3%83%88/)
-  - [映画『Spider-Man: Into the Spider-Verse』に参加したアーティストがネット上に投稿したアート等1000点以上をまとめ](https://onanimation.com/2019/01/13/the-art-and-making-of-spider-man-into-the-spider-verse/)
-    - https://animsquare.com/2019/01/spiderman_art/
-  - 色、配置、フォントにこだわることで全然見栄えが変わる！！
-    - [カラースキームジェネレーター](https://coolors.co/)
-  - [coliss. 2019年用、日本語のフリーフォント377種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
-  - 指定の解像度で、PhotoshopのレイヤーでUI、キャラクター、背景を分けて、画面のコンセプト画像を作成
-- その他、進められる作業
-  - 使えそうなアセットやフォントを探す
-  - BGMや効果音を探す
-- チーム発表の準備。考えた企画について発表
-  - 発表では、Trelloを見せながら、企画概要を報告すると楽
-- チームごとに、来週金曜日までにやってくることの報告
-  - これもTrelloにリストを作って、カードに書き出しておくとよい
 
-## 2回目課題(予定)
-- 不明点について各自持ち帰って検討してくる
-- 2週目に企画は正式決定する
+### その他、進められる作業
+- [coliss. 2019年用、日本語のフリーフォント377種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
+- BGMや効果音を探す
 
 ## 1回目
 ### アイディアだし
