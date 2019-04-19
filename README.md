@@ -63,6 +63,7 @@
 ### その他、進められる作業
 - [coliss. 2019年用、日本語のフリーフォント377種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
 - BGMや効果音を探す
+- Unityプロジェクトの作成と[GitHubでの共有](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
 
 ## 1回目
 ### アイディアだし
