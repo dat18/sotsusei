@@ -33,6 +33,7 @@
 
 # 2週目(4/26)
 ## ニュース
+- [Unity道場 ４月〜アーティストの為のPBR再入門〜](https://meetup.unity3d.jp/jp/events/1070)
 - [Unity Designer's Cafe #2 (ワンダープラネット株式会社@渋谷) ](https://unity-designers-cafe.connpass.com/event/128444/)
 
 ## 3回目予定
