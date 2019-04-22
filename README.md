@@ -31,6 +31,47 @@
 - デザイナー：モックアップ作成、キャラクターデザイン、UIデザイン
 - プログラマー：プロジェクト作成、作業予定の作成、仕様の調査
 
+# 2週目(4/26)
+## ニュース
+- [Unity Designer's Cafe #2 (ワンダープラネット株式会社@渋谷) ](https://unity-designers-cafe.connpass.com/event/128444/)
+
+## 3回目予定
+### 1コマ目
+各自、イメージ出しや作業に向けた準備。
+
+- デザイナーさんは、ラフ作成を進める
+- プログラマーさんは、プロジェクトの作成、ビルド、GitHubの連携、データをやり取りする方法などを確認
+
+### 2コマ目
+デザイナーさんが描いたラフ画像を見ながら、チームごとに会議をして以下の仕様を決めて、Trelloにまとめていく。
+
+- ゲームタイトル(仮でよい)
+- 現在、考えているキャラクターのリストと、画面内での大きさ
+- マップをタイルで作成する場合、1マスの大きさ
+- ミスの条件
+- ステージクリアの条件
+- 操作方法
+- プレイヤーに必要な動作一覧
+- 必要なシーンと遷移の仕方(あとで追加するのは簡単なので、最低限のもの)
+- 各自のGW中の作業担当
+
+以下、可能なら決めておくとよい。
+
+- フォント
+  - タイトル / 見出し用フォント
+    - ゲームの世界観に合うことを重視。多少読みにくくても良い
+  - 説明用フォント
+    - ルール説明などのメッセージ用のフォント。ゲームの世界観に合っていながら、読みやすさを重視
+  - パラメーター用フォント
+    - アルファベットや数値用フォント。他のフォントと共用でもよい
+  - 参考： [coliss. 2019年用、日本語のフリーフォント377種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
+- テーマの色
+  - [カラースキームジェネレーター](https://coolors.co/)
+  - 参考： https://www.webprofessional.jp/using-color-schemes-in-mobile-ui-design/
+
+### 参考
+- Unityプロジェクトの作成と[GitHubでの共有](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
+
 # 1週目(4/17,19)
 ## 2回目予定
 ### やりたいこと
@@ -59,11 +100,6 @@
   - 「とれろ」で検索すればOK
   - [Trelloガイド](https://trello.com/guide/)
 - 出したアイディアをTrelloに貼り付ける
-
-### その他、進められる作業
-- [coliss. 2019年用、日本語のフリーフォント377種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
-- BGMや効果音を探す
-- Unityプロジェクトの作成と[GitHubでの共有](https://docs.google.com/document/d/1_-4IYojfAzUwW-fk2GSaoDq8zzOp5EID5JemP52Lt6w/)
 
 ## 1回目
 ### アイディアだし
