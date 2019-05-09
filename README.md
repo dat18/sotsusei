@@ -40,7 +40,8 @@
   - *乗っかること、褒め合うことで、チームワークがよくなる。*
     - [面白法人カヤック. 3. 始まりも終わりもブレスト](https://www.kayac.com/vision/brainstorm)より
 - 応募要項の確認
-  - http://awards.cesa.or.jp/amateur/guideline/index.html
+  - [応募要項](http://awards.cesa.or.jp/amateur/guideline/index.html)
+  - [応募方法](http://awards.cesa.or.jp/amateur/entry/index.html)
 - 今回の目的のおさらい
   - コンテストへの応募の実績作り
   - ポートフォリオの素材作り
