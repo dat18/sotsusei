@@ -37,6 +37,7 @@
 ## 5回目予定(5/10)
 - **チーム作業は難しい！！**
   - だからこそ、技術力だけではなく、コミュニケーション力も求める企業が多い
+    - [ORANGE POS. ITの開発エンジニアにslackが人気な理由](https://orange-operation.jp/posrejihikaku/sharing/14026.html)
   - *乗っかること、褒め合うことで、チームワークがよくなる。*
     - [面白法人カヤック. 3. 始まりも終わりもブレスト](https://www.kayac.com/vision/brainstorm)より
 - 応募要項の確認
