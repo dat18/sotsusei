@@ -37,6 +37,10 @@
 ## 話題
 - [日本ゲーム大賞U18部門 予選大会 6/9](https://u18.awards.cesa.or.jp/)
 
+## 応募要項など
+- [応募要項](http://awards.cesa.or.jp/amateur/guideline/index.html)
+- [応募方法](http://awards.cesa.or.jp/amateur/entry/index.html)
+
 ## 準備ができているチーム
 - 5/29
   - 応募資料の作成
