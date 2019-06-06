@@ -25,8 +25,9 @@
 
 ## 話題
 - [チュートリアル / Mayaで始めるゲーム用ローポリキャラモデル](https://twitter.com/autodesk_me_jp/status/1134404713682620416)
-- [日本ゲーム大賞U18部門 予選大会 6/9](https://u18.awards.cesa.or.jp/)
+- [ワンボタンキーボード](https://twitter.com/tokyo_ff/status/1135864070144270338)
 - VR方面の転職アドバイスのツイート。参考までに・・・[こちら](https://twitter.com/waffle_maker/status/1135854312641290240)
+- [日本ゲーム大賞U18部門 予選大会 6/9](https://u18.awards.cesa.or.jp/)
 
 ## これからの進め方
 - これから夏休みまで、就職活動を主軸にする
