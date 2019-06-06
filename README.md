@@ -24,6 +24,7 @@
 # 7週目(6/5, 7)
 
 ## 話題
+- [チュートリアル / Mayaで始めるゲーム用ローポリキャラモデル](https://twitter.com/autodesk_me_jp/status/1134404713682620416)
 - [日本ゲーム大賞U18部門 予選大会 6/9](https://u18.awards.cesa.or.jp/)
 - VR方面の転職アドバイスのツイート。参考までに・・・[こちら](https://twitter.com/waffle_maker/status/1135854312641290240)
 
