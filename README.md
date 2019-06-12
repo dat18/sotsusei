@@ -26,6 +26,8 @@
 
 # 8週目(6/12, 15)
 
+- [ハシラス見学会](https://hashilus.connpass.com/event/134585/)
+
 ## ポートフォリオ例
 ### デザイナー
 - [お高菜. デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
