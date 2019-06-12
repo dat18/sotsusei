@@ -26,6 +26,16 @@
 
 # 8週目(6/12, 15)
 
+## ポートフォリオ例
+### デザイナー
+- [お高菜. デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
+- [望月 重太朗. た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.mu/jyushok/n/n39429686354a)
+- [Hakone's portfolio](http://hakone-gamedev.strikingly.com/)
+
+### エンジニア
+- [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
+
+
 ## 予定
 - 水曜日の最後の方に、1週間の活動報告と、来週までの活動予定報告
   - [Trello](https://trello.com/b/Y4V79jLx/0%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C)に箇条書き
