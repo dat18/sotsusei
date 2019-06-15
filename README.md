@@ -24,8 +24,9 @@
 # 応募作品の実行ファイル
 - `Z:\2019年\ゲーム学科\Student\卒業制作\応募作品実行ファイル`フォルダー内に圧縮したファイルを置いてあります
 
-# 8週目(6/12, 15)
-
+# 9週目(6/19, 21)
+## 話題
+- [paiza開発日誌. 【20卒】6月時点の内定率は7割！就活に出遅れた人もまだ間に合う面接対策](https://paiza.hatenablog.com/entry/2019/06/14/%E3%80%9020%E5%8D%92%E3%80%916%E6%9C%88%E6%99%82%E7%82%B9%E3%81%AE%E5%86%85%E5%AE%9A%E7%8E%87%E3%81%AF7%E5%89%B2%EF%BC%81%E5%B0%B1%E6%B4%BB%E3%81%AB%E5%87%BA%E9%81%85%E3%82%8C%E3%81%9F%E4%BA%BA%E3%82%82)
 - [ハシラス見学会](https://hashilus.connpass.com/event/134585/)
 
 ## ポートフォリオ例
@@ -37,8 +38,21 @@
 - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
 - [Hakone's portfolio](http://hakone-gamedev.strikingly.com/)
 
-
 ## 予定
+- 水曜日の最後の方に、1週間の活動報告と、来週までの活動予定報告
+  - [Trello](https://trello.com/b/Y4V79jLx/0%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C)に箇条書き
+- (メンバーが揃ったら)発表と試遊会
+  - 動画
+  - 操作説明
+  - 試遊会
+    - [感想をこちらに](https://docs.google.com/document/d/1sh3h10addQhuQ0HgrUIypdQbOhU7obgQP-ehP0mfrds/edit?usp=sharing)
+  - DATフェスタに向けた作業項目を検討
+    - 声を入れたい
+- 各自作業
+
+
+# 8週目(6/12, 14)
+## 内容
 - 水曜日の最後の方に、1週間の活動報告と、来週までの活動予定報告
   - [Trello](https://trello.com/b/Y4V79jLx/0%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C)に箇条書き
 - (メンバーが揃ったら)発表と試遊会
