@@ -29,6 +29,7 @@
 - [paiza開発日誌. 【20卒】6月時点の内定率は7割！就活に出遅れた人もまだ間に合う面接対策](https://paiza.hatenablog.com/entry/2019/06/14/%E3%80%9020%E5%8D%92%E3%80%916%E6%9C%88%E6%99%82%E7%82%B9%E3%81%AE%E5%86%85%E5%AE%9A%E7%8E%87%E3%81%AF7%E5%89%B2%EF%BC%81%E5%B0%B1%E6%B4%BB%E3%81%AB%E5%87%BA%E9%81%85%E3%82%8C%E3%81%9F%E4%BA%BA%E3%82%82)
 - [ハシラス見学会](https://hashilus.connpass.com/event/134585/)
 - [NVIDIA. AIによる画像生成 GauGANのデモ](https://www.nvidia.com/en-us/research/ai-playground/)
+  - https://www.youtube.com/watch?v=p5U4NgVGAwg
 
 ## ポートフォリオ例
 ### デザイナー
