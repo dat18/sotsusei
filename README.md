@@ -31,6 +31,9 @@
 - [NVIDIA. AIによる画像生成 GauGANのデモ](https://www.nvidia.com/en-us/research/ai-playground/)
   - https://www.youtube.com/watch?v=p5U4NgVGAwg
 
+## 画像の命名規則の例
+- [はんぐらゔぃの例](https://docs.google.com/document/d/10DWSrp2QcdawOtBvM67lr8Sjv1disyUshkcp0mc_B5U/)
+
 ## ポートフォリオ例
 ### デザイナー
 - [お高菜. デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
