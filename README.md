@@ -2,6 +2,7 @@
 - [シラバス](syllabus.md)
 
 # 参考URL
+- [背景を切り取る](https://www.remove.bg/)
 - [Photoshopのレイヤーを別ファイルに書き出す](https://helpx.adobe.com/jp/photoshop/kb/5775.html)
 - [かえるD. 良いゲームを作るためのディレクターの戦い。面白さの探索と不安のトレードオフ](https://note.mu/kaerusanu/n/n77cf0ee0734e)
   - (ゲーム大賞向けでやっちゃ駄目なやつだけど参考までに)
@@ -39,6 +40,7 @@
 ## 話題
 - [デジゲー博2019](http://digigame-expo.org/)
   - 11/17(日) DATフェスタの次の週なので、DATフェスタの作品をそのまま展示できます
+- [背景を切り取る](https://www.remove.bg/)
 
 ## 内容
 - 水曜日の最後の方に、1週間の活動報告と、来週までの活動予定報告
