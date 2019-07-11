@@ -36,6 +36,11 @@
     - 声を入れたい
 
 # 12週目(7/10, 7/12)
+## 話題
+- [Unity道場 ７月～ゲーム制作に使う数学を学習しよう～](https://meetup.unity3d.jp/jp/events/1122)
+- [Unity アセット真夏のアドベントカレンダー 2019 Summer!](https://twitter.com/AssetStore_JP/status/1148730727099297793)
+- [渋谷ゆに茶会 scene07](https://t.co/TCWNlN5jDz)
+
 ## 予定
 - 水曜日の最後の方に、1週間の活動報告と、来週までの活動予定報告
   - [Trello](https://trello.com/b/Y4V79jLx/0%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C)に箇条書き
