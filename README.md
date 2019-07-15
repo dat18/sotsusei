@@ -31,7 +31,6 @@
   - 動画
   - 操作説明
   - 試遊会
-    - [感想をこちらに](https://docs.google.com/document/d/1sh3h10addQhuQ0HgrUIypdQbOhU7obgQP-ehP0mfrds/edit?usp=sharing)
   - DATフェスタに向けた作業項目を検討
     - 声を入れたい
 
