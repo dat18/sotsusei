@@ -35,6 +35,25 @@
     - 声を入れたい
 
 # 13週目(7/17, 7/19)
+## Stella - ユニティちゃんシェーダーv2を入れてみる
+- [ユニティちゃんシェーダーGitHubリポジトリ](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project)
+- [スライド](https://learning.unity3d.jp/1691/)
+- 設定
+  - Stellaのテクスチャーとマテリアルを解凍する
+  - lambert2, lambert3, lambert5のマテリアルのシェーダーを、*UnityChanToonShader/Toon_DoubleShadeWithFeather*に変更
+    - lambert5は、元の色をコピーしておく
+  - Directional Lightの色を白にする
+- 影の色の調整
+  - BaseMapと1st ShadeMapに、テクスチャーをアタッチ
+  - 1st ShadeMapの色を暗く調整
+- 影のにじみの調整
+  - *Basic Lookdevs*欄で、影のにじみを調整
+- リムライト(輪郭近くを光らせてふんわりさせる効果)
+  - 好みに合わせて、*RimLightSettings*を*Active*にして、調整
+- アウトライン(輪郭)
+  - *Outline Settings*で、色、Outline Widthを調整。線が出ない時は、*Offset Outline with Camera Z-aixs*の値を`-0.5`～`-0.75`ぐらいで調整
+    
+
 ## 予定
 - 卒業制作　再開に向けて
   - [ファミ通.com. 『ギアーズ オブ ウォー 3』で見る、Epic Gamesの開発方針](https://www.famitsu.com/news/201109/08049825.html)
