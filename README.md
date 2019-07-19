@@ -55,7 +55,7 @@
   - Tris 170.8k, Verts 128K, Batches 103
   - アニメーション作成用モデル
 - Stella
-  - Tris 12K, Verts 17K, Batches 43
+  - Tris 12K, Verts 12K, Batches 43
 
 
 ## Stella - ユニティちゃんシェーダーv2を入れてみる
