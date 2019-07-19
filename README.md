@@ -43,7 +43,8 @@
 - 何もない状態
   - Tris 1.7K, Verts 5K, Batches 2
 - UnityChan
-  - Tris 
+  - Tris 62.7K, Verts 52K, Batches 84
+  - ゲーム用(一応)
 - SD KohakuChanz
   - Tris 29.8K, Verts: 26.2K, Batches 51
   - ゲーム用
