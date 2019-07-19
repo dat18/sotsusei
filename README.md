@@ -35,6 +35,28 @@
     - 声を入れたい
 
 # 13週目(7/17, 7/19)
+## 3Dモデルのポリゴン数、頂点数、ドローコール数など
+- [CyberAgent, Inc. 3D美少女キャラクターをどこから見てもかわいく魅せる方法とは](https://creator.game.cyberagent.co.jp/?p=3344)
+- [【Autodesk×Unity】 セガが語るUnityで作るiPhoneゲーム、そしてコンテンツ工学(https://www.inside-games.jp/article/2012/02/24/54783.html)
+
+### 参考
+- 何もない状態
+  - Tris 1.7K, Verts 5K, Batches 2
+- UnityChan
+  - Tris 
+- SD KohakuChanz
+  - Tris 29.8K, Verts: 26.2K, Batches 51
+  - ゲーム用
+- LowPolyUnityChan
+  - Tris 3.5K, Verts 1.9K, Batches 4
+  - ライト無しテクスチャーシェーダー。ライトに反応しない
+- UnityChanTPK
+  - Tris 170.8k, Verts 128K, Batches 103
+  - アニメーション作成用モデル
+- Stella
+  - Tris 12K, Verts 17K, Batches 43
+
+
 ## Stella - ユニティちゃんシェーダーv2を入れてみる
 - [ユニティちゃんシェーダーGitHubリポジトリ](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project)
 - [スライド](https://learning.unity3d.jp/1691/)
