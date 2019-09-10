@@ -23,6 +23,10 @@
 - 2月 Web公開とパッケージ完成
 
 # 16週目(9/11, 13)
+## 話題
+- [@odanny. 気持ちのいいジャンプを目指して](https://qiita.com/odanny/items/297f32a334c41410cc5d)
+
+
 ## 後期に向けて
 - シナリオと声の検討
   - [Fungus](https://assetstore.unity.com/packages/templates/systems/fungus-34184)
