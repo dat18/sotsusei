@@ -26,6 +26,14 @@
 ## 話題
 - [Unity道場 幕張スペシャル3 -Education編-](https://meetup.unity3d.jp/jp/events/1132)にLTで登壇してきました
   - [専門学校のゲームプログラマーコースにおけるUnity1週間ゲームジャムの活用事例](https://www.slideshare.net/UnityTechnologiesJapan/unity-3unity1)
+- [日本ゲーム大賞アマチュア部門](http://awards.cesa.or.jp/prize/amateur.html)
+- [日本ゲーム大賞U18部門](https://u18.awards.cesa.or.jp/news/20190915/)
+
+## 読み物
+- [まちるだ / MESON. UIデザイナーでもできる！はじめてのUnity UIの教科書 ](https://note.mu/mathi0829lda/n/n0cd458dc00f6)
+- [gamebiz.jp. 【CEDEC 2019】「エフェクトは人生だ」…『シノアリス』『戦姫絶唱シンフォギアXD』を担うポケラボ・池田氏がエフェクト制作の魅力を熱弁！](https://gamebiz.jp/?p=248246)
+- [Sugimoto Chizuru. ゲームの仕様書を書こう](https://www.slideshare.net/ChizuruSugimoto/)
+- [@odanny. 気持ちのいいジャンプを目指して](https://qiita.com/odanny/items/297f32a334c41410cc5d)
 
 ## DATフェスタまでのスケジュール
 - **10/2**, 4
