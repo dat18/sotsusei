@@ -22,7 +22,7 @@
 - 11月 DATフェスタ(抽選に通ったらデジゲー博も)出展
 - 2月 Web公開とパッケージ完成
 
-# 後期1回目(10/2, 4)
+# 後期1週目(10/2, 4)
 ## 話題
 - [Unity道場 幕張スペシャル3 -Education編-](https://meetup.unity3d.jp/jp/events/1132)にLTで登壇してきました
   - [専門学校のゲームプログラマーコースにおけるUnity1週間ゲームジャムの活用事例](https://www.slideshare.net/UnityTechnologiesJapan/unity-3unity1)
