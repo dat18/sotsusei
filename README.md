@@ -2,6 +2,7 @@
 - [シラバス](syllabus.md)
 
 # 参考URL
+- [UnityプロジェクトをGitHubに登録する](https://github.com/dat19/gp1/blob/master/github-unity.md)
 - [背景を切り取る](https://www.remove.bg/)
 - [Photoshopのレイヤーを別ファイルに書き出す](https://helpx.adobe.com/jp/photoshop/kb/5775.html)
 - [かえるD. 良いゲームを作るためのディレクターの戦い。面白さの探索と不安のトレードオフ](https://note.mu/kaerusanu/n/n77cf0ee0734e)
