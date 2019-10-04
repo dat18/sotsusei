@@ -35,6 +35,14 @@
 - [Sugimoto Chizuru. ゲームの仕様書を書こう](https://www.slideshare.net/ChizuruSugimoto/)
 - [@odanny. 気持ちのいいジャンプを目指して](https://qiita.com/odanny/items/297f32a334c41410cc5d)
 
+## TwitCastingでライブストリーミングの準備
+- スタートメニュー > twで検索して、TwitCasting Desktop Liveを起動
+  - 未インストールの場合、[ここ](http://twitcasting.tv/tdl_download.php)を開いて、ダウンロードして実行 > 規約を承諾してインストールする
+- Explorerを開いて、以下をバスにコピペして開いて、各項目を設定してください
+  - X:\2019年\ゲーム学科\Teacher\tanaka\twitcasting.txt
+- [手順](https://docs.google.com/document/d/1KA8AbOhcG2-eG0nhPJR02losYx-YCMQSuum2xWQfLwM)
+
+
 ## DATフェスタまでのスケジュール
 - **10/2**, 4
 - 10/9, 11
