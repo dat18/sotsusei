@@ -24,6 +24,9 @@
 - 2月 Web公開とパッケージ完成
 
 # 後期2週目(10/9, 11)
+## 話題
+-　12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
+
 ## DATフェスタまでのスケジュール
 - 10/2, 4
 - **10/9, 11**
