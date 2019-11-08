@@ -26,6 +26,7 @@
 # 後期6週目(11/13, 15)
 ## 話題
 - [クオリティの追求例](https://twitter.com/nal_ew/status/1191210885894639621)
+- [最小限の労力で最大限の効果を出す方法〜『ペルセポネ』ができるまで〜](https://madewithunity.jp/stories/persephone/)
 
 ## 予定
 - DATフェスタの展示の実行ファイル、プロジェクトを提出
