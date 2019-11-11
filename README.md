@@ -26,6 +26,7 @@
 # 後期6週目(11/13, 15)
 ## 話題
 - [クオリティの追求例](https://twitter.com/nal_ew/status/1191210885894639621)
+- [LookingGlassハッカソンの展示例](https://twitter.com/e__koma/status/1193857453223366656)
 - [最小限の労力で最大限の効果を出す方法〜『ペルセポネ』ができるまで〜](https://madewithunity.jp/stories/persephone/)
 
 ## 予定
