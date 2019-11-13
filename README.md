@@ -25,6 +25,7 @@
 
 # 後期6週目(11/13, 15)
 ## 話題
+- [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
 - [クオリティの追求例](https://twitter.com/nal_ew/status/1191210885894639621)
 - [LookingGlassハッカソンの展示例](https://twitter.com/e__koma/status/1193857453223366656)
 - [シロフード. ◆第2回LookingGlassハッカソンについて思う事](https://sirohood.exp.jp/20191111-2959/)
