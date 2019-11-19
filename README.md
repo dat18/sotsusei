@@ -25,6 +25,7 @@
 
 # 後期7週目(11/20, 22)
 ## 話題
+- [仮想世界を一緒に創る3DCGモデラーの学生インターンの募集](https://note.mu/ambr/n/nc923309cb149)
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
 - [東京工科大学所属のゲーム制作チーム](https://twitter.com/littlebokkuri)
 - [東京工業大学 デジタル創作同好会traP](https://trap.jp/)
