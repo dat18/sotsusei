@@ -36,6 +36,7 @@
 - 動画の演出と新しい仕様についての打ち合わせ
   - 苗を種類ごとに作成
   - 持ち運びに備えて、根っこをつける？　→　相談
+    - [現状の植物の種類](https://docs.google.com/document/d/1oWRK3W0Fcn0d7V2_GTKpqFYhwVO18kx_rV-HDRxuXrw/)
 - プログラムまとめ
 
 ### はんぐらびぃ
