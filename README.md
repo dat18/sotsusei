@@ -48,6 +48,17 @@
     - 水のミス
     - クリア時
     - カブの上(歩きの逆再生でいけそうなので、ひとまずそれでやってみる)
+  - 既存のモデルのマテリアル
+    - dandelion_model
+    - mushroom_model
+    - stella_flower_blue, _red, _yellow
+    - stella_hasu
+    - stella_ivy
+    - stella_rock_after
+    - stella_rock_before
+    - stella_tulip
+    - stella_wakaba
+    - stella_zyouro
 - プログラムまとめ
 
 ### はんぐらびぃ
