@@ -27,6 +27,27 @@
 - [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 
+# 後期8週目(11/27, 29)
+## 話題
+- [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
+
+## 予定
+- 進捗報告と作業
+
+### Greening
+- 進捗報告
+  - 開発側の報告
+
+### はんぐらびぃ
+- アセット、プログラムそれぞれをまとめる作業
+  - ぐらびぃがブラックホールに引っ張られるのと、落下するアニメについても、腹ペコ状態の絵が欲しい
+
+### 無人島ゲーム
+- Bolt対応
+
+### その他のプロジェクト
+- 何をするかの相談
+
 
 # 後期8週目(11/27, 29)
 ## 話題
@@ -36,7 +57,7 @@
 - [東京工業大学 デジタル創作同好会traP](https://trap.jp/)
 - [ダウンロードカードを製作するサービス conca](https://conca.cc/)
 
-## 予定
+## 内容
 - 進捗報告と作業
 
 ### Greening
