@@ -23,6 +23,11 @@
 - 11月 DATフェスタ(抽選に通ったらデジゲー博も)出展
 - 2月 Web公開とパッケージ完成
 
+# 参考 Exプロジェクト
+- [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
+- [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
+
+
 # 後期8週目(11/27, 29)
 ## 話題
 - [仮想世界を一緒に創る3DCGモデラーの学生インターンの募集](https://note.mu/ambr/n/nc923309cb149)
