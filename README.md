@@ -27,6 +27,27 @@
 - [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 
+# 後期9週目(12/4, 6)
+### Greening
+- 進捗報告
+  - 開発側の報告
+  - たんぽぽの花
+
+### はんぐらびぃ
+- アセット、プログラムそれぞれをまとめる作業
+  - ぐらびぃがブラックホールに引っ張られるのと、落下するアニメについても、腹ペコ状態の絵が欲しい
+
+### 無人島ゲーム
+- Bolt対応
+
+### その他のプロジェクト
+- 何をするかの相談
+
+
+
+https://github.com/dat18/sotsusei/
+
+
 # 後期8週目(11/27, 29)
 ## 話題
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
