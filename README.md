@@ -28,6 +28,10 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 
 # 後期9週目(12/4, 6)
+## 話題
+- [tkm. 企画を元にゲームのUIを作るときの流れ](https://note.com/torinegi/n/n5beaca465b1b)
+- [ゲームグラフィックデザイン　アドベントカレンダー2019](https://adventar.org/calendars/4439)
+
 ### Greening
 - 進捗報告
   - 開発側の報告
