@@ -26,10 +26,12 @@
 # 参考 Exプロジェクト
 - [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
+- [Unity用の命名規則設定ファイル](https://gist.github.com/am1tanaka/0870ceaf722062882bec487c652abccb)
 
 # 後期9週目(12/4, 6)
 ## 話題
 - [ITmedia. 「これさぁ、悪いんだけど、捨ててくれる？」――『ジャンプ』伝説の編集長が、数億円を費やした『ドラゴンボールのゲーム事業』を容赦なく“ボツ”にした真相](https://www.itmedia.co.jp/business/articles/1912/06/news020.html)
+- [Unity用の命名規則設定ファイル](https://gist.github.com/am1tanaka/0870ceaf722062882bec487c652abccb)
 - [tkm. 企画を元にゲームのUIを作るときの流れ](https://note.com/torinegi/n/n5beaca465b1b)
 - [ゲームグラフィックデザイン　アドベントカレンダー2019](https://adventar.org/calendars/4439)
 
