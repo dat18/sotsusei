@@ -35,6 +35,9 @@
 - [tkm. 企画を元にゲームのUIを作るときの流れ](https://note.com/torinegi/n/n5beaca465b1b)
 - [ゲームグラフィックデザイン　アドベントカレンダー2019](https://adventar.org/calendars/4439)
 
+## 資料
+- [Unityの命名規則とエディター設定](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+
 ### Greening
 - 進捗報告
   - 開発側の報告
