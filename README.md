@@ -37,6 +37,9 @@
 
 ## 資料
 - [Unityの命名規則とエディター設定](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+- [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
+- [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
+
 
 ### Greening
 - 進捗報告
