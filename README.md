@@ -28,6 +28,31 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [Unity用の命名規則設定ファイル](https://gist.github.com/am1tanaka/0870ceaf722062882bec487c652abccb)
 
+# 後期10週目(12/11, 13)
+## 資料
+- [Unityの命名規則とエディター設定](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+- [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
+- [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
+
+### Greening
+- 進捗報告
+  - 開発側の報告
+  - 不足モデル、アニメーション
+    - ステラの立ちモーション
+    - たんぽぽの花
+    - ツタの苗
+
+### はんぐらびぃ
+- アセット、プログラムそれぞれをまとめる作業
+  - ぐらびぃがブラックホールに引っ張られるのと、落下するアニメについても、腹ペコ状態の絵が欲しい
+
+### 無人島ゲーム
+- Bolt対応
+
+### その他のプロジェクト
+- 何をするかの相談
+
+
 # 後期9週目(12/4, 6)
 ## 話題
 - [ITmedia. 「これさぁ、悪いんだけど、捨ててくれる？」――『ジャンプ』伝説の編集長が、数億円を費やした『ドラゴンボールのゲーム事業』を容赦なく“ボツ”にした真相](https://www.itmedia.co.jp/business/articles/1912/06/news020.html)
@@ -35,10 +60,6 @@
 - [tkm. 企画を元にゲームのUIを作るときの流れ](https://note.com/torinegi/n/n5beaca465b1b)
 - [ゲームグラフィックデザイン　アドベントカレンダー2019](https://adventar.org/calendars/4439)
 
-## 資料
-- [Unityの命名規則とエディター設定](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
-- [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
-- [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 
 
 ### Greening
