@@ -54,8 +54,8 @@
 # 後期12週目(1/8, 10)
 
 ## 予定
-- はんぐらびぃとGreeningのExプロジェクトの成果物の確認
-  - [Android版のはんぐらびぃについて](https://github.com/dat19/HungraviyEx2019/blob/master/Documents/JikkiTest.md)
+- はんぐらびぃとGreeningのスタッフクレジットをTrelloなどでまとめる
+  - 担当した作業と表示する名前。本名でもハンドル名でも仮名でも
 - GreeningEx2019素材
   - 現在までにできているデモシーンの確認
   - 背景のうち、木のレイヤーを上下スクロールに対応させる
@@ -63,8 +63,6 @@
     - 中央の1080ピクセルを画面と見立てて、見せたい大きさで描画する
     - 木のない上空は透過、下は地面の色で塗りつぶす
   - クリア時のステラの動きを検討する(星につかまる？)
-- はんぐらびぃとGreeningのスタッフクレジットをTrelloなどでまとめる
-  - 担当した作業と表示する名前。本名でもハンドル名でも仮名でも
 - 作成するデータ
   - CDラベル
   - パッケージ
@@ -72,6 +70,18 @@
     - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 - 現状のバージョンをプレイして、不具合を見つけたらTrelloなどに書き込む
   - 先に進めないなど、遊ぶ上で支障が出ないようにすることを最優先にする
+
+
+
+- はんぐらびぃとGreeningのExプロジェクトの成果物の確認
+  - GreeningEx2019
+    - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
+    - GreeningExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
+    - GreeningEx2019の不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って報告できる
+  - はんぐらびぃEx2019
+    - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\HungraviyEx2019` を開く
+    - HungraviyExeフォルダーをデスクトップなどにコピーしてから、中のHungraviyEx2019.exeをダブルクリックして起動
+    - [Android版のはんぐらびぃについて](https://github.com/dat19/HungraviyEx2019/blob/master/Documents/JikkiTest.md)
 
 
 ## 金曜日予定
