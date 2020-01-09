@@ -47,6 +47,7 @@
   - 遊び方
   - ダウンロードのリンク
   - 使用アセットリスト
+  - 制作した項目と製作者名のリスト
   - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 - Greeningは、動画の組み込み
 - GreeningとHungraviyのグラフィックデータをアセットにまとめて公開
