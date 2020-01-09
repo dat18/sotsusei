@@ -72,9 +72,15 @@
     - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 - 現状のバージョンをプレイして、不具合を見つけたらTrelloなどに書き込む
   - 先に進めないなど、遊ぶ上で支障が出ないようにすることを最優先にする
-
-
-
+- プログラムの追加、修正点
+  - はんぐらびぃ
+    - タイトル画面でEscを押したら `Application.Quit();` で終了する
+    - ダメージをうけて画面外に押し出されるのを直す
+  - Greening
+    - Trelloに記載
+  - A Little Star Story
+    - アイコンを差し替える
+    - タイトル画面でEscを押したら `Application.Quit();` で終了する
 - はんぐらびぃとGreeningのExプロジェクトの成果物の確認
   - GreeningEx2019
     - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
