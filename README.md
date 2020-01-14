@@ -56,11 +56,46 @@
 - GreeningとHungraviyのグラフィックデータをアセットにまとめて公開
   - 著作者表示の名前を確認
 
+# 後期13週目(1/15, 17)
+## 予定
+- はんぐらびぃとGreeningのスタッフクレジットのまとめ
+  - 担当した作業と表示する名前。本名でもハンドル名でも仮名でも
+- プログラムの追加、修正点
+  - はんぐらびぃ
+    - タイトル画面でEscを押したら `Application.Quit();` で終了する
+    - ダメージをうけて画面外に押し出されるのを直す
+  - Greening
+    - Trelloに記載
+  - A Little Star Story
+    - アイコンを差し替える
+    - タイトル画面でEscを押したら `Application.Quit();` で終了する
+- GreeningEx2019素材
+  - オープニング、Stage5の動画
+- 作成するデータ
+  - CDラベル
+  - パッケージ
+  - 配信用Webページ
+    - [一覧ページ](https://dat18.github.io/works/)
+    - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+
+## はんぐらびぃとGreeningのExプロジェクトの成果物
+  - GreeningEx2019
+    - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
+    - GreeningExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
+    - GreeningEx2019の不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って報告できる
+    - 実装済み：　仮の動画を再生 / クリア時の動き / 岩などの動きを調整 / Stage10まで暫定のステージを組み込み(Stage4以降は同じ)
+    - 作業予定： カメラの制御、スタッフ&仕様アセット表示、ステージ選択の色の変化
+  - はんぐらびぃEx2019
+    - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\HungraviyEx2019` を開く
+    - HungraviyExeフォルダーをデスクトップなどにコピーしてから、中のHungraviyEx2019.exeをダブルクリックして起動
+    - [Android版のはんぐらびぃについて](https://github.com/dat19/HungraviyEx2019/blob/master/Documents/JikkiTest.md)
+    - 実装済み： Stage1,2作成 / Stage1にチュートリアル / BGMと効果音 / スマホビルド
+    - 作業予定： カメラの動き / その他のステージ / スタッフ&仕様アセット表示
+
+
 # 後期12週目(1/8, 10)
 
-## 予定
-- はんぐらびぃとGreeningのスタッフクレジットをTrelloなどでまとめる
-  - 担当した作業と表示する名前。本名でもハンドル名でも仮名でも
+## 内容
 - プログラムの追加、修正点
   - はんぐらびぃ
     - タイトル画面でEscを押したら `Application.Quit();` で終了する
