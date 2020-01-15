@@ -76,11 +76,11 @@
   - 報告： 枯れている時と、きれいになった後で、位置がずれている(地面の形が違い、もともとこのように使う用途で制作に入っていなかったと思われるので、修正はしなくても構いません。)
 - 作成するデータ
   - CDラベル
-    - 12cm四方で画像を作成。300dpi程度
+    - 12cm四方で画像を作成。350dpi程度
     - Epson Print CDを利用
     - [EP4004マニュアル p16, 39, 41](https://www2.epson.jp/support/manual/NPD4612_02.PDF)
   - パッケージ [アマレータイプ](https://www.prinpa.net/print/dvd_jacket) 183mm x (129.5 + 14 + 129.5)mm
-    - 300dpi程度
+    - 350dpi程度
   - 配信用Webページ
     - [一覧ページ](https://dat18.github.io/works/)
     - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
