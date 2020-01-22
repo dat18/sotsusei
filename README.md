@@ -69,7 +69,7 @@
     - アイコンを差し替える
     - タイトル画面でEscを押したら `Application.Quit();` で終了する
 - GreeningEx2019素材
-  - オープニング、Stage5の動画
+  - <s>オープニング、</s>Stage5の動画
 - 作成するデータ
   - CDラベル
     - 12cm四方で画像を作成。350dpi程度
@@ -91,7 +91,7 @@
     - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\HungraviyEx2019` を開く
     - `HungraviyEx2019Exe`フォルダーをデスクトップなどにコピーしてから、中のHungraviyEx2019.exeをダブルクリックして起動
     - [Android版のはんぐらびぃについて](https://github.com/dat19/HungraviyEx2019/blob/master/Documents/JikkiTest.md)
-    - 残りの作業： カメラの移動制限
+    - <s>残りの作業： カメラの移動制限</s>
 
 
 # 後期13週目(1/15, 17)
