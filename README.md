@@ -70,7 +70,7 @@
     - アイコンを差し替える
     - タイトル画面でEscを押したら `Application.Quit();` で終了する
 - GreeningEx2019素材
-  - <s>オープニング、</s>Stage5の動画
+  - <s>オープニング、</s>Stage5、エンディング時のイラスト
 - 作成するデータ
   - CDラベル
     - 12cm四方で画像を作成。350dpi程度
@@ -80,8 +80,11 @@
     - 350dpi程度
   - 配信用Webページ
     - [一覧ページ](https://dat18.github.io/works/)
-    - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
-
+    - 参考(Ex版はゲーム内に開発者クレジットがあるので、Web上では省略)
+      - [GreeningEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
+      - [HungraviyEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
+      - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+    
 ## はんぐらびぃとGreeningのExプロジェクトの成果物
   - GreeningEx2019
     - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
