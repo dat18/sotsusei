@@ -81,7 +81,7 @@
   - 配信用Webページ
     - [一覧ページ](https://dat18.github.io/works/)
     - 参考(Ex版はゲーム内に開発者クレジットがあるので、Web上では省略)
-      - [GreeningEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
+      - [GreeningEx2019のページ](https://dat18.github.io/works/GreeningEx2019Exe/)
       - [HungraviyEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
       - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
     
