@@ -57,6 +57,46 @@
 - GreeningとHungraviyのグラフィックデータをアセットにまとめて公開
   - 著作者表示の名前を確認
 
+# 後期15週目(1/29, 31)
+## 予定
+- プログラムの追加、修正点
+  - はんぐらびぃ(完了)
+  - Greening
+    - Trelloに記載
+  - A Little Star Story
+    - アイコンを差し替える
+    - タイトル画面でEscを押したら `Application.Quit();` で終了する
+- GreeningEx2019素材
+  - Stage5、エンディング時のイラスト
+  - アイコン用画像(ポスターを正方形に切り取ったもの)
+  - ポスターの画像(Webページ用)
+- 作成するデータ
+  - CDラベル
+    - 12cm四方で画像を作成。350dpi程度
+    - Epson Print CDを利用
+    - [EP4004マニュアル p16, 39, 41](https://www2.epson.jp/support/manual/NPD4612_02.PDF)
+  - パッケージ [アマレータイプ](https://www.prinpa.net/print/dvd_jacket) 183mm x (129.5 + 14 + 129.5)mm
+    - 350dpi程度
+  - 配信用Webページ
+    - [一覧ページ](https://dat18.github.io/works/)
+    - 参考(Ex版はゲーム内に開発者クレジットがあるので、Web上では省略)
+      - [GreeningEx2019のページ](https://dat18.github.io/works/GreeningEx2019Exe/)
+      - [HungraviyEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
+      - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+    
+## はんぐらびぃとGreeningのExプロジェクトの成果物
+  - GreeningEx2019
+    - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
+    - `GreeningEx2019exe`フォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
+    - GreeningEx2019の不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って報告できる
+    - 作業予定： カメラの外にステラが出ないようにする
+  - はんぐらびぃEx2019
+    - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\HungraviyEx2019` を開く
+    - `HungraviyEx2019Exe`フォルダーをデスクトップなどにコピーしてから、中のHungraviyEx2019.exeをダブルクリックして起動
+    - [Android版のはんぐらびぃについて](https://github.com/dat19/HungraviyEx2019/blob/master/Documents/JikkiTest.md)
+    - <s>残りの作業： カメラの移動制限</s>
+
+
 # 後期14週目(1/22, 24)
 ## 予定
 - はんぐらびぃとGreeningのスタッフクレジットのまとめ
