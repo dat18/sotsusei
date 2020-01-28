@@ -89,7 +89,7 @@
     - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
     - `GreeningEx2019exe`フォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
     - GreeningEx2019の不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って報告できる
-    - 残り作業： イラストと声の組み込み / アイコンの組み込み
+    - 残り作業： イラストと声の組み込み / アイコンの組み込み / Stage7～10の作成 / ステージ名の設定 / [その他、不具合解消](https://github.com/dat19/GreeningEx2019/issues)
   - はんぐらびぃEx2019
     - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\HungraviyEx2019` を開く
     - `HungraviyEx2019Exe`フォルダーをデスクトップなどにコピーしてから、中のHungraviyEx2019.exeをダブルクリックして起動
