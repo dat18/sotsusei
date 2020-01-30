@@ -65,9 +65,9 @@
 |:-:|:-:|:-:|:-:|:-:|
 |Greening| | | | |
 |Hungraviy|〇| | | |
-|A Little Star Story|△|〇| | |
-|SeaDrifter|△|〇|不要|不要| 
-|GreeningEx2019|△|〇|不要|不要|
+|A Little Star Story| |〇| | |
+|SeaDrifter| |〇|不要|不要| 
+|GreeningEx2019| |〇|不要|不要|
 |HungraviyEx2019|〇|〇|不要|不要|
 
 - Greening
@@ -79,6 +79,7 @@
   - Canvas Scaler未設定
 - GreeningEx2019素材
   - Stage5、エンディング時のイラスト
+  - Stage8,9,10
 
 
 ## 予定
