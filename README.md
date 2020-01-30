@@ -35,8 +35,8 @@
   - 作成するデータについて、詳しく説明した上で、制作開始
 - 1/15, 17
   - 実行ファイルを揃える / CD、ケースの原稿 / 動画など、残りの素材作り
-- **1/22, 24**
-- 1/29, 31 すべての締め切り
+- 1/22, 24
+- **1/29, 31 すべての締め切り**
 - 2/5, 7 予備週
 
 ## 予定
@@ -57,37 +57,49 @@
 - GreeningとHungraviyのグラフィックデータをアセットにまとめて公開
   - 著作者表示の名前を確認
 
+
 # 後期15週目(1/29, 31)
+## 進捗
+
+|タイトル|実行ファイル|Webページ|DVDケース画像|DVDラベル画像|
+|:-:|:-:|:-:|:-:|:-:|
+|Greening| | | | |
+|Hungraviy|〇| | | |
+|A Little Star Story|△|〇| | |
+|SeaDrifter|△|〇|不要|不要| 
+|GreeningEx2019|△|〇|不要|不要|
+|HungraviyEx2019|〇|〇|不要|不要|
+
+- Greening
+  - アイコン未設定
+  - 動画、音声未実装
+- A Little Star Story
+  - ゲーム中からの終了
+- SeaDrifter
+  - Canvas Scaler未設定
+- GreeningEx2019素材
+  - Stage5、エンディング時のイラスト
+
+
+## 予定
+- CDラベル
+  - 12cm四方で画像を作成。350dpi程度
+  - Epson Print CDを利用
+  - [EP4004マニュアル p16, 39, 41](https://www2.epson.jp/support/manual/NPD4612_02.PDF)
+- パッケージ [アマレータイプ](https://www.prinpa.net/print/dvd_jacket) 183mm x (129.5 + 14 + 129.5)mm
+  - 350dpi程度
+- 配信用Webページ
+  - [一覧ページ](https://dat18.github.io/works/)
+  - 参考(Ex版はゲーム内に開発者クレジットがあるので、Web上では省略)
+    - [GreeningEx2019のページ](https://dat18.github.io/works/GreeningEx2019Exe/)
+    - [HungraviyEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
+    - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+
+
 ## 最終版のUnityプロジェクト、および、リソース提出先
 - `X:\2019年\ゲーム学科\Student\卒業制作\最終版プロジェクト＆リソース提出フォルダー`
 
 
-## 予定
-- プログラムの追加、修正点
-  - はんぐらびぃ(完了)
-  - Greening
-    - Trelloに記載
-  - A Little Star Story
-    - アイコンを差し替える
-    - タイトル画面でEscを押したら `Application.Quit();` で終了する
-- GreeningEx2019素材
-  - Stage5、エンディング時のイラスト
-  - <s>アイコン用画像(ポスターを正方形に切り取ったもの)</s>
-  - <s>ポスターの画像(Webページ用)</s>
-- 作成するデータ
-  - CDラベル
-    - 12cm四方で画像を作成。350dpi程度
-    - Epson Print CDを利用
-    - [EP4004マニュアル p16, 39, 41](https://www2.epson.jp/support/manual/NPD4612_02.PDF)
-  - パッケージ [アマレータイプ](https://www.prinpa.net/print/dvd_jacket) 183mm x (129.5 + 14 + 129.5)mm
-    - 350dpi程度
-  - 配信用Webページ
-    - [一覧ページ](https://dat18.github.io/works/)
-    - 参考(Ex版はゲーム内に開発者クレジットがあるので、Web上では省略)
-      - [GreeningEx2019のページ](https://dat18.github.io/works/GreeningEx2019Exe/)
-      - [HungraviyEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
-      - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
-    
 ## はんぐらびぃとGreeningのExプロジェクトの成果物
   - GreeningEx2019
     - `X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019` を開く
