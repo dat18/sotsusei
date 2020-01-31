@@ -76,15 +76,15 @@
 
 ## 残り作業
 - Greening
-  - アイコン未設定
-  - 動画、音声未実装
+  - <s>アイコン</s>
+  - 動画、音声
 - A Little Star Story
   - ゲーム中からの終了
 - SeaDrifter
   - Canvas Scaler未設定
 - GreeningEx2019素材
-  - Stage5、エンディング時のイラスト
-  - Stage8,9,10
+  - <s>Stage5、エンディング時のイラスト</s>
+  - Stage<s>8,9,</s>10
 
 
 ## ラベル類の仕様
