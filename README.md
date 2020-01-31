@@ -63,13 +63,18 @@
 
 |タイトル|実行ファイル|Webページ|DVDケース画像|DVDラベル画像|
 |:-:|:-:|:-:|:-:|:-:|
-|Greening| | | | |
-|Hungraviy|〇| | | |
-|A Little Star Story| |〇| | |
-|SeaDrifter| |〇|不要|不要| 
+|Greening|△|△| | |
+|Hungraviy|〇|△| | |
+|A Little Star Story|△|〇| | |
+|SeaDrifter|△|〇|不要|不要| 
 |GreeningEx2019| |〇|不要|不要|
 |HungraviyEx2019|〇|〇|不要|不要|
 
+- 〇：完了
+- △：仮データあり
+- 無印：データ不足
+
+## 残り作業
 - Greening
   - アイコン未設定
   - 動画、音声未実装
@@ -82,7 +87,7 @@
   - Stage8,9,10
 
 
-## 予定
+## ラベル類の仕様
 - CDラベル
   - 12cm四方で画像を作成。350dpi程度
   - Epson Print CDを利用
