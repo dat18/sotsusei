@@ -36,8 +36,8 @@
 - 1/15, 17
   - 実行ファイルを揃える / CD、ケースの原稿 / 動画など、残りの素材作り
 - 1/22, 24
-- **1/29, 31 すべての締め切り**
-- 2/5, 7 予備週
+- 1/29, 31 すべての締め切り
+- **2/5, 7 予備週**
 
 ## 予定
 - DATフェスタ、応募版の作品が以下のフォルダーにあるので、デスクトップにコピーしてから、中の実行ファイルをダブルクリックすると起動できる
@@ -56,6 +56,63 @@
 - Greeningは、動画の組み込み
 - GreeningとHungraviyのグラフィックデータをアセットにまとめて公開
   - 著作者表示の名前を確認
+
+# 後期16週目(2/5, 2/7)
+## 作品公開ページ
+- https://dat18.github.io/works/
+
+## 2/5
+- Webページを完成
+  - 作品紹介とダウンロードリンクを設定したHTMLファイルと、実行ファイルをZIP圧縮したファイルを、担当者のGitHub Pagesにアップロード
+  - アップしたページへのURLを報告
+- DVDケース用ラベルの印刷
+- DVDへの印刷
+
+## 2/7
+- 仕上げ
+- DVDに実行ファイルを焼く
+- 最終版のプロジェクトを以下にコピーして提出
+  - `X:\2019年\ゲーム学科\Student\卒業制作\最終版プロジェクト＆リソース提出フォルダー`
+- 試遊会
+
+
+## 進捗
+|タイトル|実行ファイル|Webページ|DVDケース画像|DVDラベル画像|
+|:-:|:-:|:-:|:-:|:-:|
+|Greening|△|△| | |
+|Hungraviy|〇|△| | |
+|A Little Star Story|△|〇| | |
+|SeaDrifter|△|〇|不要|不要| 
+|GreeningEx2019|〇|〇|不要|不要|
+|HungraviyEx2019|〇|〇|不要|不要|
+
+- 〇：完了
+- △：仮データあり
+- 無印：データ不足
+
+## 残り作業
+- Greening
+  - ダウンロードページ
+- A Little Star Story
+  - ゲーム中からの終了
+  - CanvasScalrが設定されたかを確認
+- SeaDrifter
+  - CanvasScalrが設定されたかを確認
+
+
+## ラベル類の仕様
+- CDラベル
+  - 12cm四方で画像を作成。350dpi程度
+  - Epson Print CDを利用
+  - [EP4004マニュアル p16, 39, 41](https://www2.epson.jp/support/manual/NPD4612_02.PDF)
+- パッケージ [アマレータイプ](https://www.prinpa.net/print/dvd_jacket) 183mm x (129.5 + 14 + 129.5)mm
+  - 350dpi程度
+- 配信用Webページ
+  - [一覧ページ](https://dat18.github.io/works/)
+  - 参考(Ex版はゲーム内に開発者クレジットがあるので、Web上では省略)
+    - [GreeningEx2019のページ](https://dat18.github.io/works/GreeningEx2019Exe/)
+    - [HungraviyEx2019のページ](https://dat18.github.io/works/HungraviyEx2019Exe/)
+    - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 
 
 # 後期15週目(1/29, 31)
