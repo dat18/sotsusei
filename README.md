@@ -71,6 +71,7 @@
 ## 2/7
 - 仕上げ
 - DVDに実行ファイルを焼く
+  - DVD書き込み手順 https://docs.google.com/document/d/1KARRdwYcF0GXiqeyMflnwgS_mmwKjs43BCRg9UuC_iw/
 - 最終版のプロジェクトを以下にコピーして提出
   - `X:\2019年\ゲーム学科\Student\卒業制作\最終版プロジェクト＆リソース提出フォルダー`
 - 試遊会
