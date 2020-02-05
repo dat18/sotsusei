@@ -81,7 +81,7 @@
 ## 進捗
 |タイトル|実行ファイル|Webページ|DVDケース画像|DVDラベル画像|
 |:-:|:-:|:-:|:-:|:-:|
-|Greening|△|△|〇| |
+|Greening|△|△|〇|〇|
 |Hungraviy|〇|△| | |
 |A Little Star Story|△|〇| | |
 |SeaDrifter|△|〇|不要|不要| 
