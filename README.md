@@ -61,21 +61,24 @@
 ## 作品公開ページ
 - https://dat18.github.io/works/
 
+## 2/7
+- DVDに実行ファイルを焼く
+  - `X:\2019年\ゲーム学科\Student\卒業制作\最終版` フォルダー内のものを書き込む
+  - DVD書き込み手順 https://docs.google.com/document/d/1KARRdwYcF0GXiqeyMflnwgS_mmwKjs43BCRg9UuC_iw/
+- 最終版のプロジェクトを以下にコピーして提出
+  - `X:\2019年\ゲーム学科\Student\卒業制作\最終版プロジェクト＆リソース提出フォルダー`
+- 生産数は、チームメンバー数+予備2セット分
+  - A Little Star Story 6枚
+  - Greening 10枚
+  - はんぐらびぃ 7枚
+- 試遊会
+
 ## 2/5
 - Webページを完成
   - 作品紹介とダウンロードリンクを設定したHTMLファイルと、実行ファイルをZIP圧縮したファイルを、担当者のGitHub Pagesにアップロード
   - アップしたページへのURLを報告
 - DVDケース用ラベル、DVDの印刷原稿(明日、印刷できるように)
   - デジタルアーツ東京のロゴ `X:\2019年\ゲーム学科\Teacher\tanaka\LOGO`
-
-## 2/7
-- 仕上げ
-- DVDに実行ファイルを焼く
-  - `X:\2019年\ゲーム学科\Student\卒業制作\最終版` フォルダー内のものを書き込む
-  - DVD書き込み手順 https://docs.google.com/document/d/1KARRdwYcF0GXiqeyMflnwgS_mmwKjs43BCRg9UuC_iw/
-- 最終版のプロジェクトを以下にコピーして提出
-  - `X:\2019年\ゲーム学科\Student\卒業制作\最終版プロジェクト＆リソース提出フォルダー`
-- 試遊会
 
 
 ## 進捗
