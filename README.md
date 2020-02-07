@@ -85,25 +85,16 @@
 ## 進捗
 |タイトル|実行ファイル|Webページ|DVDケース画像|DVDラベル画像|
 |:-:|:-:|:-:|:-:|:-:|
-|Greening|△|△|〇|〇|
-|Hungraviy|〇|△|△|△|
+|Greening|△|〇|〇|〇|
+|Hungraviy|〇|〇|△|△|
 |A Little Star Story|〇|〇|〇|〇|
-|SeaDrifter|△|〇|不要|不要| 
+|SeaDrifter|〇|〇|不要|不要| 
 |GreeningEx2019|〇|〇|不要|不要|
 |HungraviyEx2019|〇|〇|不要|不要|
 
 - 〇：完了
 - △：仮データあり
 - 無印：データ不足
-
-## 残り作業
-- Greening
-  - ダウンロードページ
-- A Little Star Story
-  - ゲーム中からの終了
-  - CanvasScalrが設定されたかを確認
-- SeaDrifter
-  - CanvasScalrが設定されたかを確認
 
 
 ## ラベル類の仕様
