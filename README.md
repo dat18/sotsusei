@@ -87,7 +87,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |Greening|△|△|〇|〇|
 |Hungraviy|〇|△|△|△|
-|A Little Star Story|△|〇|〇|〇|
+|A Little Star Story|〇|〇|〇|〇|
 |SeaDrifter|△|〇|不要|不要| 
 |GreeningEx2019|〇|〇|不要|不要|
 |HungraviyEx2019|〇|〇|不要|不要|
